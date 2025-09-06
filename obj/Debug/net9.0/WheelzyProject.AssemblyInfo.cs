@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WheelzyProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cacd0431f14a9beff7539862ae166c04f6ebd79")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb7cf110cf80a2429ce92619f3f63a7edd53897a")]
 [assembly: System.Reflection.AssemblyProductAttribute("WheelzyProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WheelzyProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
