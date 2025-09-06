@@ -1,0 +1,6 @@
+@WheelzyProject_HostAddress = http://localhost:5235
+
+GET {{WheelzyProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
